@@ -6,9 +6,7 @@ function buttStuff() {
             writePets(getPet());
         }
         else {let newPets = getPet();
-            console.log(newPets);
             let filteredPets = newPets.filter(x => x.type === event.target.id);
-            console.log(filteredPets);
             writePets(filteredPets);
         }
     })
