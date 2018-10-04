@@ -1,0 +1,52 @@
+.card{
+    display: inline-block;
+}
+
+.Green {
+    color: green;
+    background-color: chartreuse;
+}
+
+.Yellow {
+    color: yellow;
+    background-color: greenyellow;
+}
+
+.Black {
+    color: black;
+    background-color: darkgray;
+}
+
+.Brown {
+    color: brown;
+    background-color: peru;
+}
+
+.Grey {
+    color: grey;
+    background-color: lightgray;
+}
+
+.Blue {
+    color: blue;
+    background-color: lightblue;
+}
+
+.Orange {
+    color: orange;
+    background-color: orangered;
+}
+
+.Red {
+    color: red;
+    background-color: maroon;
+}
+
+.Purple {
+    color: purple;
+    background-color: mediumpurple;
+}
+
+.Poop-Colored {
+    color: saddlebrown;
+}
